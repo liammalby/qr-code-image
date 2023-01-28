@@ -43,8 +43,8 @@ I should work on getting more proficient with positioning things in a reactive w
 ## Author
 
 - Website - [Liam Malby][21]
-- Frontend Mentor - [@yourusername][22]
-- Twitter - [@yourusername][23]
+- Frontend Mentor - [@liammalby][22]
+- Twitter - [@therealmalby][23]
 
 [1]: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 [2]: #overview
