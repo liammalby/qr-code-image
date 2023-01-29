@@ -2,15 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-/* Custom colours */
+	/* Custom colours */
 	--light-grey: #d5e1ef;
 	--blue: #2C7DFA;
 	--blue-shade: #3685ff;
 	--dark-navy: #1f314f;
 	--grey: #7D889E;
 	--light-grey: #D5E1EF;
-	
-/* 	Custom font */
+
+	/* 	Custom font */
 	--copy-font: 'Outfit', sans-serif;
 }
 
@@ -20,7 +20,7 @@ body {
 	background-color: var(--light-grey);
 	display: flex;
 	justify-content: center;
-	height: 100vh;
+	min-height: 100vh;
 	margin: 0;
 	font-size: 15pt;
 }
@@ -32,26 +32,25 @@ h1 {
 	--header-font-size: 22px;
 	font-size: var(--header-font-size);
 	line-height: calc(1.27 * var(--header-font-size));
-	padding-left: 15px;
+	padding-left: 16px;
 	padding-top: 15px;
-	padding-right: 15px;
+	padding-right: 16px;
 }
 
 p {
 	font-family: var(--copy-font);
 	color: var(--grey);
-	--body-font-size: 15px;
+	--body-font-size: 1rem;
 	font-size: var(--body-font-size);
 	line-height: calc(var(--body-font-size) * 1.26);
 	font-weight: 300;
-	padding: 0px 20px;
-	letter-spacing: 0.1875px;
+	padding: 0px 16px;
+	letter-spacing: 0.012rem;
 }
 
 /* Classes */
 .text {
 	text-align: center;
-	padding: 0px 15px;
 }
 
 .rectangle {
@@ -60,7 +59,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	height: 497px;
+	padding: 1rem;
 	width: 320px;
 }
 
@@ -69,5 +68,6 @@ p {
 	border-radius: 10px;
 	height: 288px;
 	margin-top: 16px;
+	max-width: 100%;
 	width: 288px;
 }

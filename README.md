@@ -40,6 +40,10 @@ This task did not require any responsiveness, so I think some of the values I ha
 
 I should work on getting more proficient with positioning things in a reactive way. However, this might be an easier task with a library.
 
+## Acknowledgements
+
+Thank you to [Hassia Issah][24] and [Melvin Aguilar][25], who provided helpful feedback on making improvements to my initial version.
+
 ## Author
 
 - Website - [Liam Malby][21]
@@ -65,3 +69,5 @@ I should work on getting more proficient with positioning things in a reactive w
 [21]: https://github.com/liammalby
 [22]: https://www.frontendmentor.io/profile/liammalby
 [23]: https://www.twitter.com/therealmalby
+[24]: https://www.frontendmentor.io/profile/Hassiai
+[25]: https://www.frontendmentor.io/profile/MelvinAguilar
