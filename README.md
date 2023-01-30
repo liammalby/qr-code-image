@@ -18,14 +18,10 @@ The aim of this project was to replicate the following design:
 
 ## Overview
 
-### Screenshot
-
-![](/Desktop%20QT%20Code.png)
-
 ### Links
 
-- Solution URL: [https://github.com/liammalby/qr-code-image][13]
-- Live Site URL: [https://liammalby.github.io/qr-code-image/][14]
+- [Solution URL][13]
+- [Live Site URL][14]
 
 ## My process
 
@@ -64,8 +60,8 @@ Thank you to [Hassia Issah][24] and [Melvin Aguilar][25], who provided helpful f
 [10]: #author
 [11]: #acknowledgments
 [12]: https://getfireshot.com/
-[13]: https://your-solution-url.com
-[14]: https://your-live-site-url.com
+[13]: https://github.com/liammalby/qr-code-image
+[14]: https://liammalby.github.io/qr-code-image/
 [15]: https://reactjs.org/
 [16]: https://nextjs.org/
 [17]: https://styled-components.com/
