@@ -2,6 +2,9 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor][1]. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+The aim of this project was to replicate the following design:
+![QR Code](https://res.cloudinary.com/dz209s6jk/image/upload/v1642681473/Challenges/lzfaukzhigbavv5sc26b.jpg)
+
 ## Table of contents
 
 - [Overview][2]
