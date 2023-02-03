@@ -61,6 +61,7 @@ p {
 	align-items: center;
 	padding: 1rem;
 	width: 320px;
+	box-shadow: 10px 10px 15px 0px rgb(44 89 130);
 }
 
 /* ids */
