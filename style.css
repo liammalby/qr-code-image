@@ -22,19 +22,19 @@ body {
 	justify-content: center;
 	min-height: 100vh;
 	margin: 0;
-	font-size: 15pt;
+	font-size: 1rem;
 }
 
 h1 {
 	color: var(--dark-navy);
 	font-family: var(--copy-font);
-	font-weight: 600;
-	--header-font-size: 22px;
+	font-weight: 700;
+	--header-font-size: 1.5rem;
 	font-size: var(--header-font-size);
 	line-height: calc(1.27 * var(--header-font-size));
-	padding-left: 16px;
-	padding-top: 15px;
-	padding-right: 16px;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	padding-right: 1rem;
 }
 
 p {
@@ -44,7 +44,7 @@ p {
 	font-size: var(--body-font-size);
 	line-height: calc(var(--body-font-size) * 1.26);
 	font-weight: 300;
-	padding: 0px 16px;
+	padding: 0px 1rem;
 	letter-spacing: 0.012rem;
 }
 
@@ -59,9 +59,10 @@ p {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding: 1rem;
-	width: 320px;
-	box-shadow: 10px 10px 15px 0px rgb(44 89 130);
+	padding-bottom: 1rem;
+	min-width: 320px;
+	max-width: 320px;
+	box-shadow: 5px 5px 5px 0px rgba(44, 88, 130, 0.101);
 }
 
 /* ids */
